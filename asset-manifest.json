@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xdictionary/static/css/main.f855e6bc.css",
+    "main.js": "/xdictionary/static/js/main.8151f7b5.js",
+    "static/js/453.61e0cee7.chunk.js": "/xdictionary/static/js/453.61e0cee7.chunk.js",
+    "index.html": "/xdictionary/index.html",
+    "main.f855e6bc.css.map": "/xdictionary/static/css/main.f855e6bc.css.map",
+    "main.8151f7b5.js.map": "/xdictionary/static/js/main.8151f7b5.js.map",
+    "453.61e0cee7.chunk.js.map": "/xdictionary/static/js/453.61e0cee7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8151f7b5.js"
+  ]
+}
